@@ -1,6 +1,6 @@
 # ESL Reading Level Bookmarklet
 
-Clicking the bookmarklet displays an estimated reading grade level based on page content. Made with  ❤️  for my girlfriend and other ESL students looking for level appropriate reading online.
+Clicking the bookmarklet displays an estimated reading grade level based on page content. Made for ESL students with level appropriate reading requirements.
 
 **[Click here](http://dansandland.github.io/ESL-reading-level-bookmarklet/) to add the bookmarklet to your bookmarks bar.**
 
